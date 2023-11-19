@@ -77,3 +77,5 @@ gbl_t gbl;
 #else
 extern gbl_t gbl;
 #endif
+
+#endif
